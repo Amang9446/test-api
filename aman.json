@@ -1,0 +1,74 @@
+{
+  "products": [
+    {
+      "product_name": "OnePlus Bullets Z2",
+      "mrp": " ₹2,299",
+      "current_price": "₹1,999",
+      "image_link": "https://m.media-amazon.com/images/I/51RP1QMh-mL._SL1500_.jpg",
+      "buy_link": "https://www.amazon.in/Oneplus-Bluetooth-Wireless-Earphones-Bombastic/dp/B0B3MNYGTW/ref=sr_1_2?_encoding=UTF8&_ref=dlx_gate_sd_dcl_tlt_efc3e8cb_dt&content-id=amzn1.sym.9e4ae409-2145-4395-aa6e-45d7f3e95c3e&pd_rd_r=72fa1985-ea9c-4521-a558-c0a448c4e758&pd_rd_w=id4lz&pd_rd_wg=owJZW&pf_rd_p=9e4ae409-2145-4395-aa6e-45d7f3e95c3e&pf_rd_r=BFBWXKY743WN2E78B7ME&qid=1685000325&sr=8-2"
+    },
+    {
+      "product_name": "Apple iPhone 14 Pro",
+      "mrp": " ₹1,39,900",
+      "current_price": "₹1,28,999",
+      "image_link": "https://m.media-amazon.com/images/I/61HHS0HrjpL._SL1500_.jpg",
+      "buy_link": "https://www.amazon.in/Apple-iPhone-256GB-Deep-Purple/dp/B0BDHV1TZ4/?_encoding=UTF8&pd_rd_w=IVlaN&content-id=amzn1.sym.82b4a24f-081c-4d15-959c-ef13a1d3fa4e&pf_rd_p=82b4a24f-081c-4d15-959c-ef13a1d3fa4e&pf_rd_r=85XWK0S9RQ79WTHAECKM&pd_rd_wg=5IUBX&pd_rd_r=0f1c025d-21dd-4bc7-9339-b7c52522d40c&ref_=pd_gw_ci_mcx_mr_hp_atf_m"
+    },
+    {
+      "product_name": "OnePlus Buds Z2",
+      "mrp": "₹5,999",
+      "current_price": "₹4,999",
+      "image_link": "https://m.media-amazon.com/images/I/419Pe9doxrL._SL1500_.jpg",
+      "buy_link": "https://www.amazon.in/OnePlus-Wireless-Earbuds-Active-Cancellation/dp/B07XWB82D9/ref=sr_1_10?_encoding=UTF8&_ref=dlx_gate_sd_dcl_tlt_efc3e8cb_dt&content-id=amzn1.sym.9e4ae409-2145-4395-aa6e-45d7f3e95c3e&pd_rd_r=72fa1985-ea9c-4521-a558-c0a448c4e758&pd_rd_w=id4lz&pd_rd_wg=owJZW&pf_rd_p=9e4ae409-2145-4395-aa6e-45d7f3e95c3e&pf_rd_r=BFBWXKY743WN2E78B7ME&qid=1685000325&sr=8-10"
+    },
+    {
+      "product_name": "American Tourister",
+      "mrp": "₹2,500",
+      "current_price": "₹1,299",
+      "image_link": "https://m.media-amazon.com/images/I/81yWRCC7YcL._UL1500_.jpg",
+      "buy_link": "https://www.amazon.in/American-Tourister-BACKPACK-COMPARTMENT-ORGANIZER/dp/B0BTD4FK9G?ref_=Oct_DLandingS_D_c6c33f53_1"
+    },
+    {
+      "product_name": "Axor Cruise 2 Jacket",
+      "mrp": "₹5,606",
+      "current_price": "₹5,326",
+      "image_link": "https://m.media-amazon.com/images/I/71sRvwk4uDL._SL1500_.jpg",
+      "buy_link": "https://www.amazon.in/Axor-Cruise-Jacket-Black-Red-L/dp/B09T3DRLYB/ref=pd_ci_mcx_mh_mcx_views_0?pd_rd_w=RJiVv&content-id=amzn1.sym.7c947cdc-0249-4ded-881f-f826efe2df4c&pf_rd_p=7c947cdc-0249-4ded-881f-f826efe2df4c&pf_rd_r=TCQM7744172NYR3TKQEF&pd_rd_wg=lSWSP&pd_rd_r=791f3e22-b1f1-4fee-8cdf-1c34a3a76df9&pd_rd_i=B09T3DRLYB"
+    },
+    {
+      "product_name": "AQUAQLEAN Frosty Plastic ",
+      "mrp": " ₹1,080",
+      "current_price": "₹539",
+      "image_link": "https://m.media-amazon.com/images/I/51sF1z2PSMS._SL1500_.jpg",
+      "buy_link": "https://www.amazon.in/Aquaqlean-Frosty-Plastic-Fridge-Assorted/dp/B0995VW65M/ref=sr_1_4?keywords=bottles&pd_rd_r=65e03b06-8895-4b90-8662-67494b036021&pd_rd_w=hi1dx&pd_rd_wg=MYTG8&pf_rd_p=4910db5a-2e9f-4969-bdef-266ef94266c5&pf_rd_r=N43AYVFC7T08X6JKSF98&qid=1685000716&refinements=p_n_format_browse-bin%3A19560801031&s=kitchen&sr=1-4"
+    },
+    {
+      "product_name": "Cello Sportigo Plastic Bottle",
+      "mrp": " ₹352",
+      "current_price": "₹273",
+      "image_link": "https://m.media-amazon.com/images/I/71ydpWFY-gL._SL1500_.jpg",
+      "buy_link": "https://www.amazon.in/Cello-Sportigo-Plastic-Bottle-Assorted/dp/B077Z99BP2/ref=pd_vtp_h_pd_vtp_h_sccl_2/261-8271914-8601628?pd_rd_w=jBXJA&content-id=amzn1.sym.ddf0f5ee-c51d-425c-8d75-a37da3720d66&pf_rd_p=ddf0f5ee-c51d-425c-8d75-a37da3720d66&pf_rd_r=509D51VG6H6VZBEWW2XJ&pd_rd_wg=7Hjvt&pd_rd_r=21a20318-c635-4ce1-964e-4513ee86a12b&pd_rd_i=B077Z99BP2&psc=1"
+    },
+    {
+      "product_name": "Aqualogica Glow+",
+      "mrp": "₹399",
+      "current_price": "₹358",
+      "image_link": "https://m.media-amazon.com/images/I/51TSC6UogxL.jpg",
+      "buy_link": "https://www.amazon.in/Aqualogica-Sunscreen-Protection-Glowing-Protected/dp/B09TPFTJNN?pd_rd_w=oJefe&content-id=amzn1.sym.9477bc1f-c0f6-48fd-899e-707f6f9e612b&pf_rd_p=9477bc1f-c0f6-48fd-899e-707f6f9e612b&pf_rd_r=3PNFKP12DW52N772TZ8E&pd_rd_wg=Olm8T&pd_rd_r=d3a0a3f5-d5ee-42f0-be50-705261316ec3&pd_rd_i=B09TPFTJNN&psc=1&ref_=pd_bap_d_grid_rp_0_2_t"
+    },
+    {
+      "product_name": "Red Tape Men",
+      "mrp": " ₹5,499",
+      "current_price": "₹1,540",
+      "image_link": "https://m.media-amazon.com/images/I/512dInPBtOL._UL1500_.jpg",
+      "buy_link": "https://www.amazon.in/Red-Tape-Men-White-Sneaker-6/dp/B0BPT184C8/?_encoding=UTF8&pd_rd_w=Pp7tu&content-id=amzn1.sym.b5a625fa-e3eb-4301-a9e2-f9c8b3e7badf&pf_rd_p=b5a625fa-e3eb-4301-a9e2-f9c8b3e7badf&pf_rd_r=NJ346211057HCAGTKDXC&pd_rd_wg=Raseg&pd_rd_r=d073c17a-2f3c-4904-ae56-99bd74752230&ref_=pd_gw_ci_mcx_mr_hp_atf_m"
+    },
+    {
+      "product_name": "Samsung 25W",
+      "mrp": " ₹1,699",
+      "current_price": "₹1199",
+      "image_link": "https://m.media-amazon.com/images/I/21uXmiH98wL.jpg",
+      "buy_link": "https://www.amazon.in/Samsung-25W-Travel-Adapter/dp/B08VFF6JQ8/?_encoding=UTF8&pd_rd_w=0fvSt&content-id=amzn1.sym.b5a625fa-e3eb-4301-a9e2-f9c8b3e7badf&pf_rd_p=b5a625fa-e3eb-4301-a9e2-f9c8b3e7badf&pf_rd_r=VC38EJTNCH8428HDR52V&pd_rd_wg=wgzWV&pd_rd_r=b8256b3a-f0fa-48f5-8f59-013c52c8f195&ref_=pd_gw_ci_mcx_mr_hp_atf_m"
+    }
+  ]
+}
