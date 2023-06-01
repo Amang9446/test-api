@@ -1,10 +1,22 @@
 [
   {
-    "host": "www.mamaearth.in",
-    "param": "utm_source=inrdeals&utm_medium=affise_affiliate&utm_campaign=Jan23&utm_term=cps_145_*_1_2174&pid=145&sub2=&sub1=*_1_2174"
+    "host": "mamaearth.in",
+    "utm_source": "inrdeals",
+    "utm_medium": "affise_affiliate",
+    "utm_campaign": "Jan23",
+    "utm_term": "cps_145__*_1_2174",
+    "pid": "145",
+    "sub2": "",
+    "sub1": "*_1_2174"
   },
   {
     "host": "wowskinscienceindia.com",
-    "param": "utm_source=clickonik&utm_medium=affise_affiliate&utm_term=cps_6_&pid=6&utm_campaign=*&sub2=&sub1=*"
+    "utm_source": "clickonik",
+    "utm_medium": "affise_affiliate",
+    "utm_term": "cps_6_",
+    "pid": "6",
+    "utm_campaign": "*",
+    "sub2": "",
+    "sub1": "*"
   }
 ]
