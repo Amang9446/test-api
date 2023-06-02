@@ -24,5 +24,15 @@
       "sub2": "",
       "sub1": "*"
     }
+  },
+ {
+    "expanded_link": "https://inrdeals.com/siddddd/google",
+    "parameters": {
+      "host": "play.google.com",
+      "utm_source": "inrdeals",
+      "utm_medium": "referral",
+      "utm_campaign": "offer-remarketing",
+      "utm_term": "remarketing"
+    }
   }
 ]
