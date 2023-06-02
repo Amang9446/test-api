@@ -1,0 +1,28 @@
+[
+  {
+    "expanded_link": "https://inrdeals.com/sid/mamaearth",
+    "parameters": {
+      "host": "mamaearth.in",
+      "utm_source": "inrdeals",
+      "utm_medium": "affise_affiliate",
+      "utm_campaign": "Jan23",
+      "utm_term": "cps_145_*_1_2174",
+      "pid": "145",
+      "sub2": "",
+      "sub1": "*_1_2174"
+    }
+  },
+  {
+    "expanded_link": "https://inrdeals.com/siddddd/wowskinscience",
+    "parameters": {
+      "host": "wowskinscienceindia.com",
+      "utm_source": "clickonik",
+      "utm_medium": "affise_affiliat",
+      "utm_term": "cps_6_",
+      "pid": "6",
+      "utm_campaign": "*",
+      "sub2": "",
+      "sub1": "*"
+    }
+  }
+]
