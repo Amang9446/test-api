@@ -30,7 +30,7 @@
     "parameters": {
       "host": "play.google.com",
       "utm_source": "inrdeals",
-      "utm_dium": "rral",
+      "utm_medium": "rral",
       "utm_campaign": "offer-remarketing",
       "utm_term": "remarketing"
     }
