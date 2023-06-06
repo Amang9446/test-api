@@ -1,6 +1,7 @@
 [
   {
-    "expanded_link": "https://inrdeals.com/sid/mamaearth",
+    "expanded_link": "https://inr.deals/track?id=ama552880345&src=merchant-backend&campaign=cps&url=https://wowskinscienceindia.com/"
+,
     "parameters": {
       "host": "mamaearth.in",
       "utm_source": "inrdeals",
@@ -13,7 +14,7 @@
     }
   },
   {
-    "expanded_link": "https://inrdeals.com/siddddd/wowskinscience",
+    "expanded_link": "https://inr.deals/track?id=ama552880345&src=merchant-backend&campaign=cps&url=https://mamaearth.in",
     "parameters": {
       "host": "wowskinscienceindia.com",
       "utm_source": "clickonik",
@@ -23,16 +24,6 @@
       "utm_campaign": "*",
       "sub2": "",
       "sub1": "*"
-    }
-  },
- {
-    "expanded_link": "https://inrdeals.com/siddddd/google",
-    "parameters": {
-      "host": "play.google.com",
-      "utm_source": "inrdeals",
-      "utm_medium": "referral",
-      "utm_campaign": "offer-remarketing",
-      "utm_term": "remarketing"
     }
   }
 ]
